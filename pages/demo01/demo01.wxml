@@ -1,0 +1,12 @@
+<!--pages/demo01/demo01.wxml-->
+<view class="mainbox">
+  <text>pages/demo01/demo01.wxml</text>
+</view>
+<view class="mainbox">
+  <text>hello,world</text>
+</view>
+<view class="mainbox">
+  <text>你好，{{name}}</text>
+</view>
+
+
